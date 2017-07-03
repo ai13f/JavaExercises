@@ -1,412 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="490cf0b0-9a30-4fa1-b640-1ac81a431267" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/out/production/week1-010.CircleCircumference/Circumference.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/out/test/week1-010.CircleCircumference/CircumferenceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/out/production/week5-091.ExtendingMyDate/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/out/production/week5-091.ExtendingMyDate/MyDate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/out/test/week5-091.ExtendingMyDate/A_MyDateTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/out/test/week5-091.ExtendingMyDate/B_MyDateTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/out/test/week5-091.ExtendingMyDate/C_MyDateTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/out/production/week5-092.DifferenceDate/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/out/production/week5-092.DifferenceDate/MyDate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/out/test/week5-092.DifferenceDate/MyDateTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/cglib-nodep-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/easymock-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/edu-test-utils-0.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/javassist-3.18.2-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/objenesis-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/powermock-easymock-1.5.5-full.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/testrunner/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/testrunner/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/testrunner/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/testrunner/tmc-junit-runner.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/lib/testrunner/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/.idea/libraries/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/src/Circumference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/test/CircumferenceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week1-010.CircleCircumference/week1-010.CircleCircumference.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/src/SmartCombining.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining/test/SmartCombiningTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/libraries/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/src/MyDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/test/A_MyDateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/test/B_MyDateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/test/C_MyDateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate/week5-091.ExtendingMyDate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/libraries/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/src/MyDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/test/MyDateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/week5-092.DifferenceDate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/MyDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/test/PersonTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook/test/PhonebookTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/src/Money.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-095.Money/test/MoneyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray/test/MainTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/test/MainTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse/test/CopyAndReverseTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/test/MainTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-100.NightSky/test/NightSkyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-101.Library/test/LibraryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution/test/GradeDistributionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher/test/BirdWatcherTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/test/SortingTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/src/GuessingGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame/test/GuessingGameTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/src/BinarySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch/test/SearchTest.java" />
+    <list default="true" id="490cf0b0-9a30-4fa1-b640-1ac81a431267" name="Default" comment="First Commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/workspace.xml" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/Person.java" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/Person.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -454,6 +52,20 @@
               <option name="myItemId" value="TMCProjects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2013-OOProgrammingWithJava-PART1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TMCProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TMCProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -486,6 +98,61 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -509,6 +176,22 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -528,6 +211,52 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TMCProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -582,6 +311,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

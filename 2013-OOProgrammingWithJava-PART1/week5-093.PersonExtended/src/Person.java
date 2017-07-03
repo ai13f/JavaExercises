@@ -13,9 +13,11 @@ public class Person {
     public int age() {
 // calculate the age based on the birthday and the current day
         // you get the current day as follows: 
-        // Calendar.getInstance().get(Calendar.DATE);
-        // Calendar.getInstance().get(Calendar.MONTH) + 1; // January is 0 so we add one
-        // Calendar.getInstance().get(Calendar.YEAR);
+        int date = Calendar.getInstance().get(Calendar.DATE);
+         int month = Calendar.getInstance().get(Calendar.MONTH) + 1; // January is 0 so we add one
+         int year = Calendar.getInstance().get(Calendar.YEAR);
+
+         
         return 0;
     }
     
