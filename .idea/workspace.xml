@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490cf0b0-9a30-4fa1-b640-1ac81a431267" name="Default" comment="First Commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/workspace.xml" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/Person.java" afterPath="$PROJECT_DIR$/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/src/Person.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
